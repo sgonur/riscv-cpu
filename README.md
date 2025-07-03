@@ -104,5 +104,4 @@ Based on the current implementation in `control.v`, `alu_control.v`, and related
 
 ## 👤 Author
 
-\Satvik Gonur
-Feel free to customize and expand this design!
+Satvik Gonur
